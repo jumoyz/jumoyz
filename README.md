@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jumoyz (junior MOISE)
 - 👀 I’m interested in Python, Java, PHP, JavaScript, React, React Native, Flutter, WordPress
-- 🌱 I’m currently learning Computer Science at the University of People
+- 🌱 I graduated with an associate degree in Computer Science from the University of People
 - 💞️ I’m looking to collaborate on projects like...
 - 📫 How to reach me, ping me or say hello to hello@juniormoise.com
 
